@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+.env.test
+
+# Next.js build output
+.next
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
